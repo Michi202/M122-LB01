@@ -12,7 +12,7 @@ TODO: schreiben sie wie die Skripte aufgerufen werden sollen (d.h. welche Parame
 #Activity Diagrams
 
 ##Backup Script
-(backupScript.png "diagram")
+![haha u blind](backupScript.png "diagram")
 
 
 
