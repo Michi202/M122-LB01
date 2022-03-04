@@ -5,9 +5,11 @@
 ## Lösungsdesign
 Anhand der Analyse wurde folgendes Lösungsdesign entworfen.
 
-### Aufruf der Skripte
+## Aufruf der Skripte
 
-TODO: schreiben sie wie die Skripte aufgerufen werden sollen (d.h. welche Parameter werden übergeben, gibt es Interaktionen mit dem Skript, läuft es automatisch täglich ab?)
+### Backup Script
+Wird nur mit dem Ort der Haup-Konfigurationsdatei aufgerufen
+
 
 # Activity Diagrams
 
