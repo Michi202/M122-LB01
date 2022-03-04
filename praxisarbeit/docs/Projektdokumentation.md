@@ -11,9 +11,9 @@ Anhand der Analyse wurde folgendes Lösungsdesign entworfen.
 Wird nur mit dem Ort der Haup-Konfigurationsdatei aufgerufen
 
 
-# Activity Diagrams
+## Activity Diagrams
 
-## Backup Script
+### Backup Script
 ![haha u blind](backupScript.png "diagram")
 
 
