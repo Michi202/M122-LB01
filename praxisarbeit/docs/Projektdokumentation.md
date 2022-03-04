@@ -12,6 +12,7 @@ Wird nur mit dem Ort der Haup-Konfigurationsdatei aufgerufen
 
 
 ## Activity Diagrams
+![haha u blind](createUserScript.png "diagram")
 
 ### Backup Script
 ![haha u blind](backupScript.png "diagram")
@@ -19,6 +20,11 @@ Wird nur mit dem Ort der Haup-Konfigurationsdatei aufgerufen
 
 
 ## Konfigurationsdateien
+
+### Add User Script
+- vorhandene Gruppen
+- gruppierung aller Users
+- template struktur
 
 ### Backup Script
 - maximale anzahl backups
