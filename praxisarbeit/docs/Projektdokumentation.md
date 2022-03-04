@@ -12,7 +12,7 @@ Wird nur mit dem Ort der Haup-Konfigurationsdatei aufgerufen
 
 
 ## Activity Diagrams
-(addUserScript.png "diagram")
+(createUserScript.png "diagram")
 
 ### Backup Script
 ![haha u blind](backupScript.png "diagram")
