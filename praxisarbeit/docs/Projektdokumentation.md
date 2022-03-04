@@ -20,7 +20,7 @@ Wird nur mit dem Ort der Haup-Konfigurationsdatei aufgerufen
 
 ## Konfigurationsdateien
 
-## Backup Script
+### Backup Script
 - maximale anzahl backups
 - ort des Haup-Backupordners
 - prefix der einzenlnen Backupdateien
