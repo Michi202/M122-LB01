@@ -18,7 +18,14 @@ Wird nur mit dem Ort der Haup-Konfigurationsdatei aufgerufen
 
 
 
-### Konfigurationsdateien
+## Konfigurationsdateien
+
+## Backup Script
+- maximale anzahl backups
+- ort des Haup-Backupordners
+- prefix der einzenlnen Backupdateien
+- betroffene Gruppen
+- exclusions für spezifische Gruppen
 
 TODO: Definieren sie welche Parameter in welchen Konfigurationsdateien gespeichert werden.
 
