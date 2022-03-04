@@ -9,9 +9,12 @@ Anhand der Analyse wurde folgendes Lösungsdesign entworfen.
 
 TODO: schreiben sie wie die Skripte aufgerufen werden sollen (d.h. welche Parameter werden übergeben, gibt es Interaktionen mit dem Skript, läuft es automatisch täglich ab?)
 
-### Ablauf der Automation
+# Activity Diagrams
 
-TODO: Hier kommt ihr UML-Activity Diagramm
+## Backup Script
+![haha u blind](backupScript.png "diagram")
+
+
 
 ### Konfigurationsdateien
 
