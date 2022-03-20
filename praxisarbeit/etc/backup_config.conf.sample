@@ -1,0 +1,5 @@
+BACKUP_FOLDER="/something/something" #path to the folder which stores backups and log files, NEEDS TO BE ABSOLOTE PATH
+GROUPS_FILE="groups.txt" #file that contains all the groups, each group needs to be on a new line. NEEDS TO BE ABSOLOTE PATH
+BACKUP_FILE_PREFIX="somePrefix" #prefix for the backup archives
+MAX_BACKUP_ARCHIVE_AGE=2 #amount of days that backups should exist before they will be deleted
+LOGLEVEL=I        #Set default loglevel
