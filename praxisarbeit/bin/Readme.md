@@ -24,3 +24,16 @@ Ein Beispiel kann [hier](https://github.com/Michi202/M122-LB01/blob/master/praxi
 
 ## Abhängigkeiten
 Das Skript verwendet den members Command, welcher mit `sudo apt-get install` members installiert werden
+
+
+# Add User Script
+
+## Verwendung
+Um das Skript zu verwenden muss einfach `addUser.sh` mit Bash ausgeführt werden.
+Danach werden alle festgehaltenen Benutzer im `username.txt`erstellt.
+
+## Benutzer
+Zu erstellende Benutzer werden im `username.txt` im `<Vorname Name>:<Benutzername>:<Gruppe>` Format festgehalten.
+
+## Abhängigkeiten
+Falls das Skript nicht ausgeführt werden kann wegen den $Variabeln, dann muss `sudo apt-get install dos2unix` ausgeführt werden, damit es im korrekten Format ist.
