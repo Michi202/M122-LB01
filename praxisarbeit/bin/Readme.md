@@ -1,7 +1,7 @@
 # Backup Script
 
 ## Verwendung
-Um das backup script zu verwenden muss einfach backup.sh mit bash ausgeführt werden.
+Um das backup script zu verwenden muss einfach `backup.sh` mit bash ausgeführt werden.
 Danach erstellt das Skript die Backups der gruppen so, wie es in der Konfiguration gespeichert ist.
 Es wird auch ein `.log` File erstellt, welches Informationen über den Verlauf festhält.
 **WICHTIG** Alle Konfig und Skrip-Files sollten am gleichen Ort sein.
